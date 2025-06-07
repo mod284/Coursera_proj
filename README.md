@@ -1,4 +1,3 @@
-# Coursera_proj
 # Simple Interest Calculator
 
 This repository contains a simple Bash script to calculate simple interest.
